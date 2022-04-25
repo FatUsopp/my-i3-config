@@ -126,6 +126,9 @@ bindsym $mod+Shift+e exec ~/.config/i3/scripts/powermenu
 # open discord
 bindsym $mod+l exec flatpak run com.discordapp.Discord
 
+# open blanket
+bindsym $mod+l exec flatpak run com.rafaelmardojai.Blanket
+
 # reload the configuration file
 bindsym $mod+Shift+c reload
 
